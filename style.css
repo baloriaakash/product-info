@@ -473,7 +473,7 @@ a {
 @media screen and (min-width: 1201px) {
   /* Keep existing desktop styles */
   .items-div {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 5em;
   }
 }
