@@ -80,7 +80,6 @@ export const Body = () => {
             setRes(filterReslist);
           }}
         >
-          {" "}
           search item
         </button>
       </div>
