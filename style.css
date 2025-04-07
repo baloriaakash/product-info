@@ -470,7 +470,7 @@ a {
   text-decoration: none;
 }
 
-@media screen and (min-width: 1271px) {
+@media screen and (min-width: 1367px) {
   /* Keep existing desktop styles */
   .items-div {
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -478,7 +478,7 @@ a {
   }
 }
 
-@media screen and (min-width: 993px) and (max-width: 1270px) {
+@media screen and (min-width: 993px) and (max-width: 1366px) {
   .items-div {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 4em;
